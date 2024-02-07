@@ -43,7 +43,7 @@ const Page = () => {
           >
             Will You Be My Valentine?
           </motion.span>
-          <div className="flex items-center flex-col justify-between bg-red-800 p-0 md:flex-row">
+          <div className="flex items-center flex-col justify-between p-0 md:flex-row">
             <Button
               text="Yes"
               color="green"
